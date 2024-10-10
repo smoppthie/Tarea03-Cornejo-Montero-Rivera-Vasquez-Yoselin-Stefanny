@@ -1,3 +1,4 @@
+#Integrantes: Yoselin Cornejo Rivera 21.063.962-4, Stefanny Montero Vasquez 21.263.741-6
 import sys
 import getopt
 import requests
